@@ -1,0 +1,14 @@
+[02-Oct-2019 11:35:56 Etc/GMT] PHP Notice:  Undefined variable: email in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/office.php on line 282
+[02-Oct-2019 11:36:04 Etc/GMT] PHP Notice:  Undefined variable: email in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/office.php on line 282
+[02-Oct-2019 11:39:49 Etc/GMT] PHP Notice:  Undefined index: automsg in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/owa.php on line 13
+[02-Oct-2019 11:40:06 Etc/GMT] PHP Notice:  Undefined variable: header in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/random_send.php on line 27
+[02-Oct-2019 11:40:06 Etc/GMT] PHP Notice:  Undefined variable: message in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/random_send.php on line 30
+[02-Oct-2019 11:40:29 Etc/GMT] PHP Notice:  Undefined variable: email in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/office.php on line 282
+[02-Oct-2019 11:41:07 Etc/GMT] PHP Notice:  Undefined index: automsg in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/owa.php on line 13
+[02-Oct-2019 11:41:22 Etc/GMT] PHP Notice:  Undefined variable: header in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/sharepoint.php on line 19
+[02-Oct-2019 11:41:22 Etc/GMT] PHP Notice:  Undefined variable: message in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/sharepoint.php on line 22
+[02-Oct-2019 11:41:41 Etc/GMT] PHP Notice:  Undefined variable: header in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/random_send.php on line 27
+[02-Oct-2019 11:41:41 Etc/GMT] PHP Notice:  Undefined variable: message in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/random_send.php on line 30
+[02-Oct-2019 11:42:31 Etc/GMT] PHP Notice:  Undefined variable: header in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/sharepoint.php on line 19
+[02-Oct-2019 11:42:31 Etc/GMT] PHP Notice:  Undefined variable: message in /home/noisycar/public_html/sharepoint&onedrive/docwise.com.br/office_365_authentication/sharepoint.php on line 22
+[01-May-2020 13:27:42 UTC] PHP Notice:  Undefined variable: email in /home/expograficaboliv/public_html/nridistribution.com/office_365_authentication/office.php on line 282
